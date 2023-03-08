@@ -6,6 +6,7 @@
 
 ## 인공지능 관련 학습 동영상
 - [kmooc](http://www.kmooc.kr)
+    - 인공지능과 빅데이터, 전창재 | 세종대학교  
 
 ## 관련 동영상
 - 인간이 되고 싶었던 로봇 이야기 Bicentennial Man (1999) (https://www.youtube.com/watch?v=ODh2cpT-DqM)
