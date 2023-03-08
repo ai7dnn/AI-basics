@@ -1,6 +1,9 @@
 # AI-basics
 2023년 1학기 인공지능 개론
 
+## 인공지능개론 학습 공유 문서
+- [QA반 수업 중](https://docs.google.com/spreadsheets/d/1qt3u6WNnrrFvw_DyCOptxhwRdumFOTjFfB99NJMGd8M/edit?usp=sharing)
+
 ## 인공지능개론 교과목 체험 사이트
 - [구글 딥드림 생성](https://deepdreamgenerator.com/)
 
