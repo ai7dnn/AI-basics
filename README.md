@@ -6,7 +6,9 @@
 - [수요일 오후 QB반 수업 중](https://docs.google.com/spreadsheets/d/1RI_nul1oW-2TReyfXEvzoUxeAnr9KYa1T9GVyHn0gzY/edit?usp=sharing)
 
 ## 인공지능개론 교과목 체험 사이트
-- [구글 딥드림 생성](https://deepdreamgenerator.com/)
+- [구글 딥드림 생성](https://deepdreamgenerator.com)
+- [네이버 파파고 실습](https://papago.naver.com)
+- [네이버 웨일 브라우저 다운로드](https://whale.naver.com/ko/download/win)
 
 ## 인공지능 관련 학습 동영상
 - [kmooc](http://www.kmooc.kr)
