@@ -1,5 +1,5 @@
 # AI-basics
-2023년 1학기 인공지능 개론, 2023 0316 update
+2023년 1학기 인공지능 개론, 2023 0316 PM update
 
 ## 인공지능개론 학습 공유 문서
 - [수요일 오전 QA반 수업 중](https://docs.google.com/spreadsheets/d/1qt3u6WNnrrFvw_DyCOptxhwRdumFOTjFfB99NJMGd8M/edit?usp=sharing)
