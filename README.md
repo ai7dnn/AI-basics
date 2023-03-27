@@ -9,6 +9,10 @@
 - [구글 딥드림 생성](https://deepdreamgenerator.com)
 - [네이버 파파고 실습](https://papago.naver.com)
 - [네이버 웨일 브라우저 다운로드](https://whale.naver.com/ko/download/win)
+- [아실로마 인공지능 원칙](https://futureoflife.org/open-letter/ai-principles-korean)
+- [MIT 모럴머신](https://www.moralmachine.net/hl/kr)
+- [블록 코딩 계정생성](https://code.org)
+- [블록 코딩: 엘사](https://studio.code.org/s/frozen/lessons/1/levels/1)
 
 ## 인공지능 관련 학습 동영상
 - [kmooc](http://www.kmooc.kr)
