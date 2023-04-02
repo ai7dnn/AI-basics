@@ -1,5 +1,5 @@
 # AI-basics
-2023년 1학기 인공지능 개론, 2023 0316 PM update
+2023년 1학기 인공지능 개론, 2023 0402 AM update
 
 ## 인공지능개론 학습 공유 문서
 - [수요일 오전 QA반 수업 중](https://docs.google.com/spreadsheets/d/1qt3u6WNnrrFvw_DyCOptxhwRdumFOTjFfB99NJMGd8M/edit?usp=sharing)
@@ -13,9 +13,10 @@
 - [MIT 모럴머신](https://www.moralmachine.net/hl/kr)
 - [블록 코딩 계정생성](https://code.org)
 - [블록 코딩: 엘사](https://studio.code.org/s/frozen/lessons/1/levels/1)
-- [보스톤 다이나믹스1](https://youtu.be/tF4DML7FIWk)
-- [보스톤 다이나믹스2](https://youtu.be/wlkCQXHEgjA)
-
+- [보스톤 다이나믹스 휴먼로봇](https://youtu.be/tF4DML7FIWk)
+- [보스톤 다이나믹스 사족로봇](https://youtu.be/wlkCQXHEgjA)
+- [보스톤 다이나믹스와 테슬라](https://www.youtube.com/watch?v=qaJWMm4V7d0)
+- [MNIST 데이터 손글씨 숫자 인식](https://www.youtube.com/watch?v=PkGgpYKeUk0)
 
 ## 데이터 제공 사이트
 - [MNIST 시각화](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
