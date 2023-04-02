@@ -13,6 +13,15 @@
 - [MIT 모럴머신](https://www.moralmachine.net/hl/kr)
 - [블록 코딩 계정생성](https://code.org)
 - [블록 코딩: 엘사](https://studio.code.org/s/frozen/lessons/1/levels/1)
+- [보스톤 다이나믹스1](https://youtu.be/tF4DML7FIWk)
+- [보스톤 다이나믹스2](https://youtu.be/wlkCQXHEgjA)
+
+
+## 데이터 제공 사이트
+- [MNIST 시각화](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+- [imagenet](https://www.image-net.org)
+- [COCO Datasets](https://cocodataset.org/#home)
+- [캐글](https://www.kaggle.com/)
 
 ## 인공지능 관련 학습 동영상
 - [kmooc](http://www.kmooc.kr)
