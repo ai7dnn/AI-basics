@@ -17,6 +17,8 @@
 - [보스톤 다이나믹스 사족로봇](https://youtu.be/wlkCQXHEgjA)
 - [보스톤 다이나믹스와 테슬라](https://www.youtube.com/watch?v=qaJWMm4V7d0)
 - [MNIST 데이터 손글씨 숫자 인식](https://www.youtube.com/watch?v=PkGgpYKeUk0)
+- [EHT 유튜브](https://www.youtube.com/watch?v=Ipd85unZQ3M)
+- [이벤트 호라이즌 망원경 애니메이션 영화](https://www.youtube.com/watch?v=hMsNd1W_lmE)
 
 ## 데이터 제공 사이트
 - [MNIST 시각화](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
