@@ -20,6 +20,7 @@
 - [EHT 유튜브](https://www.youtube.com/watch?v=Ipd85unZQ3M)
 - [이벤트 호라이즌 망원경 애니메이션 영화](https://www.youtube.com/watch?v=hMsNd1W_lmE)
 - [머신러닝 최적화 기법: 경사하강법 실습](https://uclaacm.github.io/gradient-descent-visualiser/#playground) 
+- [딥러닝 체험: 학습할수 있는 기계](https://teachablemachine.withgoogle.com/)
 
 ## 데이터 제공 사이트
 - [MNIST 시각화](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
