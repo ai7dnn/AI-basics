@@ -5,6 +5,9 @@
 - [수요일 오전 QA반 수업 중](https://docs.google.com/spreadsheets/d/1qt3u6WNnrrFvw_DyCOptxhwRdumFOTjFfB99NJMGd8M/edit?usp=sharing)
 - [수요일 오후 QB반 수업 중](https://docs.google.com/spreadsheets/d/1RI_nul1oW-2TReyfXEvzoUxeAnr9KYa1T9GVyHn0gzY/edit?usp=sharing)
 
+## 기말고사 시험범위
+- ['8장 스스로학습하는 머신러닝(p219)'부터 배운데까지]
+
 ## 인공지능개론 교과목 체험 사이트
 - [구글 딥드림 생성](https://deepdreamgenerator.com)
 - [네이버 파파고 실습](https://papago.naver.com)
